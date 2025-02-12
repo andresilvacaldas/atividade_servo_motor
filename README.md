@@ -10,4 +10,4 @@ COMO EXECUTAR
 
 5-Certifique-se que esta com todas configurações necessárias para o funcionamento do código.
 
-VÍDEO DA PLACA : https://youtube.com/shorts/raC0rt0lGn4?si=5RIcSMlQfrbqWOmp
+VÍDEO DA PLACA : https://youtu.be/rEdxUPeGiU4
